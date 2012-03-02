@@ -1,5 +1,5 @@
 #include <EEPROM.h>
-#include "neteeprom.h"
+#include "mac_eeprom.h"
 
 uint8_t *getMACFromEEPROM() {
 	uint8_t mac[6];
