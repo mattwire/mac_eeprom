@@ -1,5 +1,5 @@
-#ifndef neteeprom__h
-#define neteeprom__h 1
+#ifndef mac_eeprom__h
+#define mac_eeprom__h 1
 
 #define EEPROM_MAC_OFFSET 0
 
