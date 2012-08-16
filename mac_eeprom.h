@@ -17,6 +17,6 @@ void setMACToEEPROM(byte *mac);
 
 void generateMAC(byte *mac);
 
-void printMAC(byte *mac, char *macstr);
+void formatMACForPrint(byte *mac, char *macstr);
 
 #endif
